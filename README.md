@@ -6,7 +6,14 @@ Welcome to **Gaming World**, a visually immersive, content-rich web project buil
 
 ## 🌐 Live Preview
 
-> _Link to GitHub Pages or deployed URL (if any)_
+![image](https://github.com/user-attachments/assets/70f42b26-d64c-41e7-a8db-c9f645074601)
+
+![image](https://github.com/user-attachments/assets/c374d2d2-e367-42ab-904e-28fc2bff40cb)
+![image](https://github.com/user-attachments/assets/5f149886-b519-42bb-9155-26c7f0848b0d)
+![image](https://github.com/user-attachments/assets/06778556-c0f9-4181-b4d4-dd5673c5a197)
+
+
+
 
 ---
 
@@ -43,11 +50,6 @@ Welcome to **Gaming World**, a visually immersive, content-rich web project buil
 
 ---
 
-## 📧 Contact
-
-For feedback or collaboration, reach out via the [Contact Us](contact.html) page.
-
----
 
 ## 📜 License
 
